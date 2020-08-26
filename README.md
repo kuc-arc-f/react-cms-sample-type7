@@ -15,6 +15,7 @@ Github pages file , build from React
 ***
 ### sample
 
+https://kuc-arc-f.github.io/react-cms-sample-type7/
 
 ***
 
